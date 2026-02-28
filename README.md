@@ -1,6 +1,6 @@
 <div align="center">
 
-# Brian Mathenge Wanja
+# Brian Mathenge
 ### Embedded Systems & IoT Engineer in Training | Electrical & Electronics Engineering Student
 
 <p align="center">
@@ -9,6 +9,7 @@
 
 <p align="center">
     <a href="mailto:tissots8789@gmail.com"><img src="https://img.shields.io/badge/Email-tissots8789%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/brian-mathenge-wanja-026048259/"><img src="https://img.shields.io/badge/LinkedIn-Brian_Mathenge-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.youtube.com/@nytho-tech"><img src="https://img.shields.io/badge/YouTube-@nytho--tech-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
     <a href="https://www.github.com/tissots"><img src="https://img.shields.io/badge/GitHub-tissots-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -35,7 +36,7 @@ I specialize in **ESP32-based development** using MicroPython and Embedded C, pr
 
 ---
 
-### ⚙️ My Engineering Approach
+###  My Engineering Approach
 I treat every project as a small-scale product development cycle, moving beyond "prototypes" toward industry-standard systems:
 1. **System Architecture Planning**
 2. **Hardware Selection & Schematic Design**
@@ -46,7 +47,7 @@ I treat every project as a small-scale product development cycle, moving beyond 
 
 ---
 
-###  Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 **Languages & Frameworks**
 <p align="left">
@@ -67,11 +68,11 @@ I treat every project as a small-scale product development cycle, moving beyond 
 
 ---
 
-###  Current Technical Development
+### 🔭 Current Technical Development
 * **Advanced Embedded C:** Register-level peripheral management.
 * **Power Electronics:** Deep dive into SMPS and solar-integrated systems.
 * **Scalable IoT:** Implementing robust, clean firmware patterns for maintainability.
-* **Location:** Based in Kenya 🌍
+* **Location:** Based in Kenya 
 * **Project:** Currently refining a **Smart Home Automation System**.
 
 ---
@@ -87,6 +88,9 @@ I treat every project as a small-scale product development cycle, moving beyond 
 <p align="left">
   <a href="https://www.github.com/tissots" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/brian-mathenge-wanja-026048259/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   <a href="https://www.youtube.com/@nytho-tech" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
