@@ -1,70 +1,94 @@
 <div align="center">
 
-# Tissots | Embedded Systems & IoT Engineer
+# Brian Mathenge Wanja
+### Embedded Systems & IoT Engineer in Training | Electrical & Electronics Engineering Student
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissots&langs_count=3&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissots&langs_count=3&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Langs" />
+</p>
 
 <p align="center">
     <a href="mailto:tissots8789@gmail.com"><img src="https://img.shields.io/badge/Email-tissots8789%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.youtube.com/@nytho-tech"><img src="https://img.shields.io/badge/YouTube-@nytho--tech-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-    <a href="http://github.com/tissots"><img src="https://img.shields.io/badge/Portfolio-Explore_Projects-2088FF?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.github.com/tissots"><img src="https://img.shields.io/badge/GitHub-tissots-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-***
+---
 
-### 🛠️ Core Competencies
+###  Professional Profile
+I am an Electrical and Electronics Engineering student focused on **industrial-grade embedded systems and IoT solutions**. My work centers on designing reliable, structured, and scalable systems that integrate hardware, firmware, and network communication into complete functional products.
 
-**Electronics Engineering Student specializing in combining robust firmware with practical hardware design.**
-
-I design real-world embedded systems using **ESP32, MicroPython, and Embedded C**. My approach treats every project as a complete engineering cycle—prioritizing documentation, structured architecture, firmware separation, and deployment planning.
-
-**Specializations:** IoT Architecture (MQTT/Node-RED), PCB Design (KiCad), Circuit Simulation (LTspice), and Hardware-level debugging.
+I specialize in **ESP32-based development** using MicroPython and Embedded C, prioritizing reliability, modularity, and real-world deployment considerations.
 
 </div>
 
-***
+---
 
-### 💻 Technology Stack
+###  Core Competencies
 
+| **Embedded Firmware** | **Industrial IoT Design** | **Hardware Integration** |
+| :--- | :--- | :--- |
+| Modular Architecture | MQTT Architecture | Sensor/Signal Interfacing |
+| Peripheral & GPIO Mgmt | Node-RED Dashboards | Relay & MOSFET Switching |
+| Sensor Driver Development | Topic Hierarchy Design | SMPS & Power Design |
+| Timing-Sensitive Debugging | Offline Fallback Strategies | PCB Layout (KiCad) |
+
+---
+
+### ⚙️ My Engineering Approach
+I treat every project as a small-scale product development cycle, moving beyond "prototypes" toward industry-standard systems:
+1. **System Architecture Planning**
+2. **Hardware Selection & Schematic Design**
+3. **Firmware Modularization**
+4. **Communication Protocol Structuring**
+5. **Documentation & Version Control**
+6. **Deployment & Scalability Planning**
+
+---
+
+###  Tech Stack & Tools
+
+**Languages & Frameworks**
 <p align="left">
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Embedded_C-215732?style=flat-square&logo=microchip&logoColor=white" alt="Embedded C" />
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython" />
-<img src="https://img.shields.io/badge/ESP32-E01E2E?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/IoT-MQTT-002A52?style=flat-square" alt="MQTT" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/KiCad-314B92?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
-<img src="https://img.shields.io/badge/FreeCAD-CB333B?style=flat-square&logo=freecad&logoColor=white" alt="FreeCAD" />
-<img src="https://img.shields.io/badge/LTspice-Sim-6A2A7C?style=flat-square" alt="LTspice" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" /></a>
 </p>
 
-***
+**Engineering & Deployment Tools**
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" /></a>
+<a href="https://store.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
+</p>
 
-### 🔭 Current Focus & Initiatives
+---
 
-| Status | Details |
-| :--- | :--- |
-| **🌍 Location** | Kenya |
-| **🚀 Currently Working On** | **Smart Home Automation System** (Full-stack Embedded/IoT) |
-| **🧠 Learning Path** | Advanced C++ for Embedded, RTOS implementation, and SMPS design simulation. |
-| **👥 Collaboration** | Seeking opportunities to collaborate on **IoT, Embedded Firmware, and Power Electronics** projects. |
+###  Current Technical Development
+* **Advanced Embedded C:** Register-level peripheral management.
+* **Power Electronics:** Deep dive into SMPS and solar-integrated systems.
+* **Scalable IoT:** Implementing robust, clean firmware patterns for maintainability.
+* **Location:** Based in Kenya 🌍
+* **Project:** Currently refining a **Smart Home Automation System**.
 
+---
+
+###  GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tissots&show_icons=true&theme=visual_studio_code&hide_border=true&hide_title=true" alt="Tissots GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tissots&show_icons=true&theme=visual_studio_code&hide_border=true" alt="Tissots Stats" />
 </div>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.github.com/tissots" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/@nytho-tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+</p>
