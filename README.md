@@ -1,41 +1,65 @@
-Hi 👋 My name is tissots
-========================
+<div align="center">
 
-embedded system engineer
-------------------------
+# Hi 👋, I'm Tissots
+### Embedded Systems Engineer | Electronics Engineering Student
 
-I am an Electronics Engineering student specializing in Embedded Systems and IoT development.
-
-I design and build real-world projects using ESP32, MicroPython, Embedded C, and hardware-level electronics.
-
-My interests include:
-
-🔹 Embedded firmware development
-
-🔹 IoT system architecture (MQTT + Node-RED)
-
-🔹 Sensor integration & hardware debugging
-
-🔹 Power electronics (SMPS design & simulation in LTspice)
-
-🔹 PCB design and circuit layout in KiCad
-
-🔹 Practical engineering problem solving
-
-I prefer learning by building — every project I create is structured like a real engineering system with documentation, architecture, firmware separation, and deployment planning.
-
-My goal is to become highly skilled in embedded firmware and IoT systems design.
-
-* 🌍  I'm based in kenya
-* ✉️  You can contact me at [tissots8789@gmail.com](mailto:tissots8789@gmail.com)
-* 🚀  I'm currently working on [smart home automation](http://github.com/tissots)
-* 🧠  I'm currently learning c, c++, python, kicad, freecad, ltspice
-* 👥  I'm looking to collaborate on iot, embedded and electronics projects
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tissots&show_icons=true&theme=visual_studio_code" alt="Tissots's GitHub stats" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/tissots" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@nytho-tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+### 🛠️ Professional Focus
+**I design and build real-world systems where software meets hardware.** Specializing in **ESP32, MicroPython, and Embedded C**, I focus on building scalable IoT architectures and robust firmware.
+
+[📫 Contact Me](mailto:tissots8789@gmail.com) • [🚀 Portfolio](http://github.com/tissots)
+
+</div>
+
+---
+
+### 🧬 My Expertise
+- **Firmware:** Embedded C, MicroPython, RTOS basics.
+- **Hardware:** PCB Design (KiCad), Circuit Simulation (LTspice), SMPS Design.
+- **IoT:** MQTT, Node-RED, Sensor Integration & Debugging.
+- **Philosophy:** I don't just "code"—I build systems with full documentation and deployment planning.
+
+---
+
+### 💻 Tech Stack & Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | C, C++, Python |
+| **Frameworks** | Node.js, FastAPI, Flask |
+| **Hardware/EDA** | KiCad, LTspice, Arduino, FreeCAD |
+| **DevOps/Tools** | Docker, VS Code, Git |
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" /></a>
+<a href="https://store.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
+</p>
+
+---
+
+###  Current Projects & Learning
+-  Based in **Kenya**
+-  Working on: **Smart Home Automation System**
+-  Learning: **Advanced KiCad & FreeCAD for Enclosure Design**
+-  Open to: **IoT & Embedded Firmware collaborations**
+
+### 🔗 Connect with me
+<p align="left">
+<a href="https://www.github.com/tissots" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+</a>
+<a href="https://www.youtube.com/@nytho-tech" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+</a>
+</p>
