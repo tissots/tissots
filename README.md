@@ -1,7 +1,7 @@
 <div align="center">
 
 # Brian Mathenge
-### Embedded Systems & IoT Engineer in Training | Electrical & Electronics Engineering Student
+### Embedded Systems & IoT Engineer in Training | Electrical & Electronics Engineer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissots&langs_count=3&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Langs" />
