@@ -17,7 +17,7 @@
 ---
 
 ###  Professional Profile
-I am an Electrical and Electronics Engineering student focused on **industrial-grade embedded systems and IoT solutions**. My work centers on designing reliable, structured, and scalable systems that integrate hardware, firmware, and network communication into complete functional products.
+I am an Electrical and Electronics Engineering graduate focused on **industrial-grade embedded systems and IoT solutions**. My work centers on designing reliable, structured, and scalable systems that integrate hardware, firmware, and network communication into complete functional products.
 
 I specialize in **ESP32-based development** using MicroPython and Embedded C, prioritizing reliability, modularity, and real-world deployment considerations.
 
